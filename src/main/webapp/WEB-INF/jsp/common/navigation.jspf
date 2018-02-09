@@ -1,0 +1,62 @@
+
+
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active" href="/list-todos">Credentials</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Products</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Crawers</a>
+  </li>
+    <li class="nav-item">
+    <a class="nav-link" href="/logout">Logout</a>
+  </li>
+</ul>
+
+
+
+<!--
+
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item">
+    <a href="/list-todos" class="nav-link active">Credentials</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="profile-tab" data-toggle="tab" href="http://www.in28minutes.com" role="tab" aria-controls="profile" aria-selected="false">Products</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Crawers</a>
+  </li>
+    <li class="nav-item">
+    <a class="nav-link" id="contact-tab" data-toggle="tab" href="/logout" role="tab" aria-controls="contact" aria-selected="false">Logout</a>
+  </li>
+</ul>
+
+
+
+
+<nav role="navigation" class="navbar navbar-default">
+	<div class="">
+		<a href="http://www.in28minutes.com" class="navbar-brand">in28Minutes</a>
+	</div>
+	<div class="navbar-collapse">
+		<ul class="nav navbar-nav">
+			<li class="active"><a href="/">Home</a></li>
+			<li><a href="/list-todos">Todos</a></li>
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<li><a href="/logout">Logout</a></li>
+		</ul>
+	</div>
+</nav>
+
+
+ <li class="nav-item">
+    <a class="nav-link active" id="home-tab" data-toggle="tab" href="/list-todos" role="tab" aria-controls="home" aria-selected="true">Credentials</a>
+  </li>
+  
+  <li class="active"><a href="/">Home</a></li>
+  <li><a href="/list-todos">Todos</a></li>
+-->			
